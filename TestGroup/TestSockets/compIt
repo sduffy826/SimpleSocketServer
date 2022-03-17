@@ -1,0 +1,1 @@
+g++ main.cpp ../../Networking/Sockets/SimpleSocket.cpp ../../Networking/Sockets/BindingSocket.cpp ../../Networking/Sockets/ListeningSocket.cpp ../../Networking/Sockets/ConnectionSocket.cpp -o test.exe

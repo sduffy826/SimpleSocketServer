@@ -1,0 +1,1 @@
+g++ TestGroupMain.cpp BaseClass.cpp ChildClass.cpp -o test.exe
